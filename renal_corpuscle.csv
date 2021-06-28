@@ -1,0 +1,16 @@
+Nodes,Label,OntologyID,representation_of
+parietal_epithelial_layer,glomerular parietal epithelium,UBERON:0005750,http://purl.obolibrary.org/obo/UBERON_0005750
+visceral_epithalial_layer,glomerular visceral epithelium,UBERON:0006852,http://purl.obolibrary.org/obo/UBERON_0006852
+glomerular_basement_membrane,glomerular basement membrane,UBERON:0005777,http://purl.obolibrary.org/obo/UBERON_0005777
+glomerular_capillary_endothelium,glomerular capillary endothelium,UBERON:0004294,http://purl.obolibrary.org/obo/UBERON_0004294
+glomerular_mesangium,glomerular mesangium,UBERON:0002320,http://purl.obolibrary.org/obo/UBERON_0002320
+extraglomerular_mesangium,extraglomerular mesangium,UBERON:0002321,http://purl.obolibrary.org/obo/UBERON_0002321
+macula_densa,macula densa,UBERON:0002335,http://purl.obolibrary.org/obo/UBERON_0002335
+afferent_arteriole,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639
+efferent_arteriole,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640
+thick_ascending_limb,metanephric thick ascending limb,UBERON:0005127,http://purl.obolibrary.org/obo/UBERON_0005127
+juxtaglomerular_granural_cell,juxtaglomerular apparatus,UBERON:0002303,http://purl.obolibrary.org/obo/UBERON_0002303
+vascular_smooth_muscle,blood vessel smooth muscle,UBERON:0004237,http://purl.obolibrary.org/obo/UBERON_0004237
+urinary_space,Bowman's space,UBERON:0001286,http://purl.obolibrary.org/obo/UBERON_0001286
+proximal_tubule_(S1),proximal convoluted tubule segment 1,UBERON:0004196,http://purl.obolibrary.org/obo/UBERON_0004196
+parietal_basement_membrane,basement membrane of epithelium,UBERON:0005769,http://purl.obolibrary.org/obo/UBERON_0005769
