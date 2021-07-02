@@ -20,7 +20,7 @@
      showgrid="false"
      inkscape:zoom="2.8630588"
      inkscape:cx="119.6273"
-     inkscape:cy="64.616207"
+     inkscape:cy="12.224688"
      inkscape:window-width="1366"
      inkscape:window-height="706"
      inkscape:window-x="-8"
@@ -41,20 +41,10 @@
    class="cls-3"
    x="0"
    y="8.4"
-   id="tspan10">V</tspan><tspan
-   x="4.52"
-   y="8.4"
-   id="tspan12">ersion: v5 - edited</tspan><tspan
+   id="tspan10">Version: v5 - edited</tspan><tspan
    x="0"
    y="16.8"
-   id="tspan14">Upda</tspan><tspan
-   class="cls-2"
-   x="17.17"
-   y="16.8"
-   id="tspan16">t</tspan><tspan
-   x="19.79"
-   y="16.8"
-   id="tspan18">ed: 14-May-2021</tspan></text>
+   id="tspan14">Updated: 14-May-2021</tspan></text>
   </g>
   <g
      id="proximal_tubule"
