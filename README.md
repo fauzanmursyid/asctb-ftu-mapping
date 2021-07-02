@@ -20,8 +20,8 @@ The tables consist of six columns:
 
 The crosswalk table of renal corpuscle is available on: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/renal_corpuscle.csv
 Some anatomical structures were not represented by any object in the original SVG image. For example, Bowman's space is a space between the visceral and parietal layers, so there was no ID from the SVG image to represent this AS. As the solution, we created a transparent path in the SVG file to represent this space. Here are the list of added paths on the SVG files:
-1. path4883 represents Bowman's space
-2. path17383 represents extraglomerular mesangium
+1. path4883 represents Bowman's space. Reason for addition: not represented by any object in the original SVG image.
+2. path17383 represents extraglomerular mesangium. Reason for addition: some parts of it are not represented by any object in the original SVG image.
 
 The original SVG file is: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/Schematics_Renal%20Corpuscle%20-%20human.svg
 
