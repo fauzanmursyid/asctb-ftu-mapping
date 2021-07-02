@@ -5,16 +5,16 @@ path571,glomerular capillary endothelium,UBERON:0004294,http://purl.obolibrary.o
 path573,glomerular capillary endothelium,UBERON:0004294,http://purl.obolibrary.org/obo/UBERON_0004294,1,AS
 mesangium,glomerular mesangium,UBERON:0002320,http://purl.obolibrary.org/obo/UBERON_0002320,1,AS
 basement_membranes,glomerular basement membrane,UBERON:0005777,http://purl.obolibrary.org/obo/UBERON_0005777,0,AS
-path3362,extraglomerular mesangium,UBERON:0002321,http://purl.obolibrary.org/obo/UBERON_0002321,0,AS
+path17383,extraglomerular mesangium,UBERON:0002321,http://purl.obolibrary.org/obo/UBERON_0002321,0,AS
 path45,extraglomerular mesangium,UBERON:0002321,http://purl.obolibrary.org/obo/UBERON_0002321,0,AS
 path43,extraglomerular mesangium,UBERON:0002321,http://purl.obolibrary.org/obo/UBERON_0002321,0,AS
 macula_densa,macula densa,UBERON:0002335,http://purl.obolibrary.org/obo/UBERON_0002335,0,AS
-path3258,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,0,AS
-path3154,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,0,AS
+path19337,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,0,AS
+path21424,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,0,AS
 distal_tubule,metanephric thick ascending limb,UBERON:0005127,http://purl.obolibrary.org/obo/UBERON_0005127,0,AS
 proximal_tubule,proximal convoluted tubule segment 1,UBERON:0004196,http://purl.obolibrary.org/obo/UBERON_0004196,0,AS
 basement_membranes,basement membrane of epithelium,UBERON:0005769,http://purl.obolibrary.org/obo/UBERON_0005769,0,AS
-path3362-6,Bowman's space,UBERON:0001286,http://purl.obolibrary.org/obo/UBERON_0001286,0,AS
+path4883,Bowman's space,UBERON:0001286,http://purl.obolibrary.org/obo/UBERON_0001286,0,AS
 parietal_epithelial_cells,parietal epithelial cell,CL:1000452,http://purl.obolibrary.org/obo/CL_1000452,1,CT
 podocytes,glomerular visceral epithelial cell,CL:0000653,http://purl.obolibrary.org/obo/CL_0000653,1,CT
 path571,glomerular capillary endothelial cell,CL:1001005,http://purl.obolibrary.org/obo/CL_1001005,1,CT
