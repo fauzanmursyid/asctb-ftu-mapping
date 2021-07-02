@@ -1,0 +1,37 @@
+svg_id,label,OntologyID,representation_of,exist_asctb,type
+parietal_epithelial_cells,glomerular parietal epithelium,UBERON:0005750,http://purl.obolibrary.org/obo/UBERON_0005750,1,AS
+podocytes,glomerular visceral epithelium,UBERON:0006852,http://purl.obolibrary.org/obo/UBERON_0006852,1,AS
+path571,glomerular capillary endothelium,UBERON:0004294,http://purl.obolibrary.org/obo/UBERON_0004294,1,AS
+path573,glomerular capillary endothelium,UBERON:0004294,http://purl.obolibrary.org/obo/UBERON_0004294,1,AS
+mesangium,glomerular mesangium,UBERON:0002320,http://purl.obolibrary.org/obo/UBERON_0002320,1,AS
+basement_membranes,glomerular basement membrane,UBERON:0005777,http://purl.obolibrary.org/obo/UBERON_0005777,0,AS
+path3362,extraglomerular mesangium,UBERON:0002321,http://purl.obolibrary.org/obo/UBERON_0002321,0,AS
+path45,extraglomerular mesangium,UBERON:0002321,http://purl.obolibrary.org/obo/UBERON_0002321,0,AS
+path43,extraglomerular mesangium,UBERON:0002321,http://purl.obolibrary.org/obo/UBERON_0002321,0,AS
+macula_densa,macula densa,UBERON:0002335,http://purl.obolibrary.org/obo/UBERON_0002335,0,AS
+path3258,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,0,AS
+path3154,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,0,AS
+distal_tubule,metanephric thick ascending limb,UBERON:0005127,http://purl.obolibrary.org/obo/UBERON_0005127,0,AS
+proximal_tubule,proximal convoluted tubule segment 1,UBERON:0004196,http://purl.obolibrary.org/obo/UBERON_0004196,0,AS
+basement_membranes,basement membrane of epithelium,UBERON:0005769,http://purl.obolibrary.org/obo/UBERON_0005769,0,AS
+path3362-6,Bowman's space,UBERON:0001286,http://purl.obolibrary.org/obo/UBERON_0001286,0,AS
+parietal_epithelial_cells,parietal epithelial cell,CL:1000452,http://purl.obolibrary.org/obo/CL_1000452,1,CT
+podocytes,glomerular visceral epithelial cell,CL:0000653,http://purl.obolibrary.org/obo/CL_0000653,1,CT
+path571,glomerular capillary endothelial cell,CL:1001005,http://purl.obolibrary.org/obo/CL_1001005,1,CT
+path573,glomerular capillary endothelial cell,CL:1001005,http://purl.obolibrary.org/obo/CL_1001005,1,CT
+path49,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+path51,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+path53,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+path55,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+path57,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+path61,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+path63,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+path65,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+path67,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+path69,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+path71,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+path73,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+path75,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+path103,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+juxtaglomerular_granular_cell,juxtaglomerular complex cell,CL:1000618,http://purl.obolibrary.org/obo/CL_1000618,0,CT
+vascular_smooth_muscle_cell,vascular associated smooth muscle cell,CL:0000359,http://purl.obolibrary.org/obo/CL_0000359,0,CT
