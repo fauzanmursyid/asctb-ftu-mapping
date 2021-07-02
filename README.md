@@ -24,4 +24,5 @@ Some anatomical structures were not represented by any object in the original SV
 2. path17383 represents extraglomerular mesangium
 
 The original SVG file is: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/Schematics_Renal%20Corpuscle%20-%20human.svg
+
 And the edited version is: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/Schematics_Renal%20Corpuscle%20-%20human_edited.svg
