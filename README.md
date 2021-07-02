@@ -23,6 +23,6 @@ Some anatomical structures were not represented by any object in the original SV
 1. path4883 represents Bowman's space. Reason for addition: not represented by any object in the original SVG image.
 2. path17383 represents extraglomerular mesangium. Reason for addition: some parts of it are not represented by any object in the original SVG image.
 
-The original SVG file is: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/Schematics_Renal%20Corpuscle%20-%20human.svg
+The original SVG file from KPMP is: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/Schematics_Renal%20Corpuscle%20-%20human.svg
 
 And the edited version is: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/Schematics_Renal%20Corpuscle%20-%20human_edited.svg
