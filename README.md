@@ -26,3 +26,13 @@ Some anatomical structures were not represented by any object in the original SV
 The original SVG file from KPMP is: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/Schematics_Renal%20Corpuscle%20-%20human.svg
 
 And the edited version is: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/Schematics_Renal%20Corpuscle%20-%20human_edited.svg
+
+## Alveoli
+
+The crosswalk table of renal corpuscle is available on: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/alveoli.csv
+Some important notes:
+1. The mesenchymal parts in the ASCT+B table (secondary crest myofibroblasts, lung matrix fibroblast 2, lung matrix fibroblast 1/(Lipofibroblast?)) are not depicted on the SVG image, so we could not map them in this table.
+2. There are two different capillarry endothelial cells in ASCT+B table: CAP1 and CAP2. Apart from their gene biomarkers expression, we are not aware of any morphological differences between them. So we could not map these CTs in the crosswalk table, and map their AS (pulmonary capilllary) instead.
+
+The SVG image is available on: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/alveoli.svg 
+It is downloaded from: https://www.ebi.ac.uk/gxa/sc/experiments/E-GEOD-130148/results/anatomogram
