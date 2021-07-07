@@ -1,9 +1,9 @@
 svg_id,label,OntologyID,representation_of,exist_asctb,type
 LAYER_EFO,pulmonary alveolar parenchyma,UBERON:0008870,http://purl.obolibrary.org/obo/UBERON_0008870,1,AS
-g14,pulmonary capilllary,UBERON:0016405,http://purl.obolibrary.org/obo/UBERON_0016405,1,AS
-g18,pulmonary capilllary,UBERON:0016405,http://purl.obolibrary.org/obo/UBERON_0016405,1,AS
-g10,pulmonary capilllary,UBERON:0016405,http://purl.obolibrary.org/obo/UBERON_0016405,1,AS
-g6,pulmonary capilllary,UBERON:0016405,http://purl.obolibrary.org/obo/UBERON_0016405,1,AS
+g14,pulmonary capillary,UBERON:0016405,http://purl.obolibrary.org/obo/UBERON_0016405,1,AS
+g18,pulmonary capillary,UBERON:0016405,http://purl.obolibrary.org/obo/UBERON_0016405,1,AS
+g10,pulmonary capillary,UBERON:0016405,http://purl.obolibrary.org/obo/UBERON_0016405,1,AS
+g6,pulmonary capillary,UBERON:0016405,http://purl.obolibrary.org/obo/UBERON_0016405,1,AS
 path71,respiratory system lymphatic vessel endothelium,UBERON:0003529,http://purl.obolibrary.org/obo/UBERON_0003529,1,AS
 CL_0002062,type I pneumocyte,CL:0002062,http://purl.obolibrary.org/obo/CL_0002062,1,CT
 CL_0002063,type II pneumocyte,CL:0002063,http://purl.obolibrary.org/obo/CL_0002063,1,CT
