@@ -1,0 +1,20 @@
+reference_name,label,OntologyID,representation_of,exist_asctb,type
+glomerular_parietal_epithelium,glomerular parietal epithelium,UBERON:0005750,http://purl.obolibrary.org/obo/UBERON_0005750,1,AS
+glomerular_visceral_epithelium,glomerular visceral epithelium,UBERON:0006852,http://purl.obolibrary.org/obo/UBERON_0006852,1,AS
+glomerular_capillary_endothelium,glomerular capillary endothelium,UBERON:0004294,http://purl.obolibrary.org/obo/UBERON_0004294,1,AS
+glomerular_mesangium,glomerular mesangium,UBERON:0002320,http://purl.obolibrary.org/obo/UBERON_0002320,1,AS
+thick_ascending_limb_of_loop_of_Henle,thick ascending limb of loop of Henle,UBERON:0001291,http://purl.obolibrary.org/obo/UBERON_0001291,1,AS
+proximal_tubule,proximal tubule,UBERON:0004134,http://purl.obolibrary.org/obo/UBERON_0004134,1,AS
+glomerular_basement_membrane,glomerular basement membrane,UBERON:0005777,http://purl.obolibrary.org/obo/UBERON_0005777,0,AS
+extraglomerular_mesangium,extraglomerular mesangium,UBERON:0002321,http://purl.obolibrary.org/obo/UBERON_0002321,0,AS
+macula_densa,macula densa,UBERON:0002335,http://purl.obolibrary.org/obo/UBERON_0002335,0,AS
+basement_membrane_of_epithelium,basement membrane of epithelium,UBERON:0005769,http://purl.obolibrary.org/obo/UBERON_0005769,0,AS
+Bowman's_space,Bowman's space,UBERON:0001286,http://purl.obolibrary.org/obo/UBERON_0001286,0,AS
+renal_afferent_arteriole,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,1,AS
+renal_efferent_arteriole,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS
+parietal_epithelial_cell,parietal epithelial cell,CL:1000452,http://purl.obolibrary.org/obo/CL_1000452,1,CT
+glomerular_visceral_epithelial_cell,glomerular visceral epithelial cell,CL:0000653,http://purl.obolibrary.org/obo/CL_0000653,1,CT
+glomerular_capillary_endothelial_cell,glomerular capillary endothelial cell,CL:1001005,http://purl.obolibrary.org/obo/CL_1001005,1,CT
+glomerular_mesangial_cell,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT
+kidney_granular_cell,kidney granular cell,CL:0000648,http://purl.obolibrary.org/obo/CL_0000648,1,CT
+macula_densa_epithelial_cell,macula densa epithelial cell,CL:1000850,http://purl.obolibrary.org/obo/CL_1000850,1,CT

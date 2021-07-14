@@ -1,0 +1,6 @@
+reference_name,label,OntologyID,representation_of,exist_asctb,type
+epithelium_of_crypt_of_Lieberkuhn,epithelium of crypt of Lieberkuhn,UBERON:0011184,http://purl.obolibrary.org/obo/CL_0009016,1,AS
+epithelial_stem_cell,intestinal crypt stem cell of large intestine,CL:0009016,http://purl.obolibrary.org/obo/CL_0009016,1,CT
+enteroendocrine_cell,neuroendocrine,CL:0000165,http://purl.obolibrary.org/obo/CL_0000165,1,CT
+absorptive_cell,enterocyte of epithelium of large intestine,CL:0002071,http://purl.obolibrary.org/obo/CL_0002071,1,CT
+goblet_cell,large intestine crypt goblet cell,CL:1000321,http://purl.obolibrary.org/obo/CL_1000321,1,CT
