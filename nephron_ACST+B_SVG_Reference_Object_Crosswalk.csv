@@ -1,0 +1,16 @@
+reference_name,label,OntologyID,representation_of,exist_asctb,type
+thick_ascending_limb,thick ascending limb of loop of Henle,UBERON:0001291,http://purl.obolibrary.org/obo/UBERON_0001291,1,AS
+distal_convoluted_tubule,distal convoluted tubule,UBERON:0001292,http://purl.obolibrary.org/obo/UBERON_0001292,1,AS
+descending_thin_limb,descending thin limb of loop of Henle,UBERON:0001289,http://purl.obolibrary.org/obo/UBERON_0001289,1,AS
+ascending_thin_limb,ascending thin limb of loop of Henle,UBERON:0004193,http://purl.obolibrary.org/obo/UBERON_0004193,1,AS
+connecting_tubule,connecting tubule,UBERON:0005097,http://purl.obolibrary.org/obo/UBERON_0005097,1,AS
+collecting_duct,collecting duct of renal tubule,UBERON:0001232,http://purl.obolibrary.org/obo/UBERON_0001232,1,AS
+proximal_tubule,proximal tubule,UBERON:0004134,http://purl.obolibrary.org/obo/UBERON_0004134,1,AS
+renal_corpuscle,renal corpuscle,UBERON:0001229,http://purl.obolibrary.org/obo/UBERON_0001229,1,AS
+cortical_collecting_duct,cortical collecting duct,UBERON:0004203,http://purl.obolibrary.org/obo/UBERON_0004203,1,AS
+inner_medullary_collecting_duct,inner medullary collecting duct,UBERON:0004205,http://purl.obolibrary.org/obo/UBERON_0004205,1,AS
+outer_medullary_collecting_duct,outer medullary collecting duct,UBERON:0004204,http://purl.obolibrary.org/obo/UBERON_0004204,1,AS
+proximal_tubule_S1_,proximal convoluted tubule segment 1,UBERON:0004196,http://purl.obolibrary.org/obo/UBERON_0004196,1,AS
+proximal_tubule_S2_,proximal convoluted tubule segment 2,UBERON:0004197,http://purl.obolibrary.org/obo/UBERON_0004197,1,AS
+proximal_tubule_S3_,proximal straight tubule,UBERON:0001290,http://purl.obolibrary.org/obo/UBERON_0001290,0,AS
+macula_densa,macula densa,UBERON:0002335,http://purl.obolibrary.org/obo/UBERON_0002335,0,AS
