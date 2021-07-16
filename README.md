@@ -76,9 +76,11 @@ Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mappi
 Important notes:
 The image only capture until AS level; the image scale is too big to capture CT.
 
-Original SVG image from KPMP [^1] : https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/KPMP_Schematics_Nephron%20tubules%20-%20human.svg 
+Original SVG image from KPMP [^1] : https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/KPMP_Schematics_Nephron%20tubules%20-%20human.svg
+Edited image: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/edited_Schematics_Nephron%20tubules%20-%20human.svg
 
-No changes were made from the original image.
+Changes from the original SVG files:
+1. removing spaces on these labels: metadata, nephron title, distal convoluted tubule, proximal straight tubule (S3)
 
 ## Reference
 
