@@ -68,9 +68,21 @@ Changes from the original SVG files:
 1. The original image is a raster, so we vectorize it using Adobe Illustrator with 6 colors and automatically group the paths based on their filled color.
 2. Relabel each CT.
 
+## Nephron
+
+SVG description table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/nephron_svg_description.csv
+Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/nephron_ACST%2BB_SVG_Reference_Object_Crosswalk.csv
+
+Important notes:
+The image only capture until AS level; the image scale is too big to capture CT.
+
+Original SVG image from KPMP [^1] : https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/KPMP_Schematics_Nephron%20tubules%20-%20human.svg 
+
+No changes were made from the original image.
+
 ## Reference
 
-[^1]: 
+[^1]: Kidney Precision Medicine Project. Welcome to the Kidney Precision Medicine Project. (n.d.). https://www.kpmp.org/. 
 
 [^2]: –&nbsp;https://www.ebi.ac.uk/about/people/irene-papatheodorou, E. B. I. G. E. T. (n.d.). Single&nbsp;Cell Expression&nbsp;Atlas. Experiment. https://www.ebi.ac.uk/gxa/sc/experiments/E-GEOD-130148/results/anatomogram. 
 
