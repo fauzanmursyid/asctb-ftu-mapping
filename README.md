@@ -1,24 +1,22 @@
-# asctb-ftu-mapping
+# Anatomical structure, Cell types and Biomarkers (ASCT+B) to Functional tissue unit (FTU) mapping
 
 ## Technical Description
 
-The HuBMAP project aims to develop a map of the human body at the single-cell level. Currently, the project has developed an ASCT+B table that captures the anatomical structures, cell types, and biomarkers used to identify cell types inside the human body. But to create a Google Map-like human atlas, a crosswalk table is needed to map the information on the ASCT+B table to highly detailed images of the human body. 
-The images are in the SVG format for two reasons: it is scalable, and each element of the image can be referred to with an id. The crosswalk table then will map between the components in the ASCT+B table and these IDs in the SVG images.
-As a starting point, we will focus on four anatomical structures: kidneys’ glomeruli, lungs’ alveoli, colon’s crypts, and . 
+The HuBMAP project aims to develop a map of the human body at the single-cell level. Currently, the project has developed an ASCT+B table that captures the anatomical structures, cell types, and biomarkers used to identify cell types inside the human body. To create a Google Map-like human atlas, a crosswalk table is needed to map the information in the ASCT+B table to highly detailed images of the human body. The images are in Scalable Vector Graphics (SVG) format for two reasons: it is scalable, and each element of the image can be referred to with an uberon or cell ontology ID. The crosswalk table will map between the components in the ASCT+B table and these IDs in the SVG images. As a starting point, we will focus on four anatomical structures: kidney nephron and renal corpuscle, lung alveoli, and large intestine colonic crypts. 
 
 ## Table Format
 
-For each microanatomical structure, we create two tables: SVG description and ASCT+B-SVG Reference Object Crosswalk table.
+For each microanatomical structure, we create two tables: SVG description and ASCT+B-SVG Reference Object Ontology Crosswalk table.
 
-The SVG description table maps the SVG IDs to their respective reference name. Each AS and each CT only have one reference name. This description table is created so the crosswalk table has one row per unique AS and CT. The table contains two columns:
-1. svg_id: describes the IDs of each AS/CT object on the SVG image files
+The SVG description table maps the node names in the SVG to their respective reference name. Each AS and each CT have one reference name. This description table is created so the crosswalk table has one row per unique AS and CT. The table contains two columns:
+1. svg_id: describes the node IDs of each AS/CT object on the SVG image files
 2. reference_name: is the unique label given for each AS/CT
 
 The second table is the crosswalk table. This table maps the description table to the ASCT+B table and consists of six columns:
 1. reference_name: the reference_name from the description table
 2. label: describes the name in the UBERON (for AS) and CL (for CT) ontologies
 3. OntologyID: describes the IDs of the UBERON (for AS) and CL (for CT) ontologies
-4. representation_of: describes the PURL of the UBERON (for AS) and CL (for CT) ontologies
+4. representation_of: describes the persistent uniform resource locator (PURL) of the UBERON (for AS) and CL (for CT) ontologies
 5. exist_asctb: the value is 1 if the object has been registered in the ASCT+B table, and 0 if the object has not been registered
 6. type: AS if the object is an anatomical structure, and CT if the object is a cell type
 
@@ -74,7 +72,7 @@ SVG description table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu
 Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/nephron_ACST%2BB_SVG_Reference_Object_Crosswalk.csv
 
 Important notes:
-The image only capture until AS level; the image scale is too big to capture CT.
+The image only captures the AS level; the image scale does not capture CT.
 
 Original SVG image from KPMP [^1] : https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/KPMP_Schematics_Nephron%20tubules%20-%20human.svg
 Edited image: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/edited_Schematics_Nephron%20tubules%20-%20human.svg
