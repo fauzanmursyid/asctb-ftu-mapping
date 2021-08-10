@@ -22,23 +22,22 @@ The second table is the crosswalk table. This table maps the description table t
 
 ## Renal Corpuscle
 
-SVG description table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/renal_corpuscle_svg_description.csv
-Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/renal_corpuscle_ASCT%2BB_SVG_Reference_Object_Crosswalk.csv
+Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/kidney-renal_corpuscle-ACST%2BB-SVG-Crosswalk.csv
 
 Important notes:
 Some anatomical structures were not represented by any object in the original SVG image. For example, Bowman's space is a space between the visceral and parietal layers, so there was no ID from the SVG image to represent this AS. As the solution, we created a transparent path in the SVG file to represent this space. 
 
 Original SVG image from KPMP [^1]: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/Schematics_Renal%20Corpuscle%20-%20human.svg
-Edited version: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/Schematics_Renal%20Corpuscle%20-%20human_edited.svg
+Edited version: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/edited_Schematics_Renal%20Corpuscle%20-%20human.svg
 
 Changes from the original SVG files:
 1. path4883 represents Bowman's space. Reason for addition: not represented by any object in the original SVG image.
 2. path17383 represents extraglomerular mesangium. Reason for addition: some parts of it are not represented by any object in the original SVG image.
+3. Rename path and group id to resemble the AS/CT name
 
 ## Alveoli
 
-SVG description table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/renal_corpuscle_svg_description.csv
-Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/renal_corpuscle_ASCT%2BB_SVG_Reference_Object_Crosswalk.csv
+Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/lung-alveoli-ACST%2BB-SVG-Crosswalk.csv
 
 Important notes:
 1. The mesenchymal parts in the ASCT+B table (secondary crest myofibroblasts, lung matrix fibroblast 2, lung matrix fibroblast 1/(Lipofibroblast?)) are not depicted on the SVG image, so we could not map them in this table.
@@ -53,8 +52,7 @@ Changes from the original SVG files:
 
 ## Colonic Crypts
 
-SVG description table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/colon_crypts_svg_description.csv
-Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/colon_crypts_ACST%2BB_SVG_Reference_Object_Crosswalk.csv
+Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/colon-crypts-ACST%2BB-SVG-Crosswalk.csv
 
 Important notes:
 The tuft cells and eosinophils are not depicted on the SVG image.
@@ -66,10 +64,9 @@ Changes from the original SVG files:
 1. The original image is a raster, so we vectorize it using Adobe Illustrator with 6 colors and automatically group the paths based on their filled color.
 2. Relabel each CT.
 
-## Nephron
+## Nephron Tubules
 
-SVG description table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/nephron_svg_description.csv
-Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/nephron_ACST%2BB_SVG_Reference_Object_Crosswalk.csv
+Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/kidney-nephron_tubules-ACST%2BB-SVG-Crosswalk.csv
 
 Important notes:
 The image only captures the AS level; the image scale does not capture CT.
