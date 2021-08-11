@@ -1,72 +1,72 @@
-SVG Description Table for Renal Corpuscle v1.0,
-,
-Author Name(s):,Fauzan Isnaini
-Image Source:,Explorer. [Online]. Available: https://atlas.kpmp.org/explorer/. [Accessed: 04-Aug-2021].
-Date:,8/10/2021
-Version Number:,1
-,
-,
-,
-svg_id,reference_name
-parietal_epithelial_cells,glomerular_parietal_epithelium
-podocytes,glomerular_visceral_epithelium
-path571,glomerular_capillary_endothelium
-path573,glomerular_capillary_endothelium
-mesangium,glomerular_mesangium
-distal_tubule,thick_ascending_limb_of_loop_of_Henle
-proximal_tubule,proximal_tubule
-basement_membranes,glomerular_basement_membrane
-extraglomerular_mesangium_1,extraglomerular_mesangium
-extraglomerular_mesangium_2,extraglomerular_mesangium
-extraglomerular_mesangium_3,extraglomerular_mesangium
-macula_densa,macula_densa
-basement_membranes,basement_membrane_of_epithelium
-path4883,Bowman's_space
-path191,renal_afferent_arteriole
-path195,renal_afferent_arteriole
-path199,renal_afferent_arteriole
-path203,renal_afferent_arteriole
-path207,renal_afferent_arteriole
-path211,renal_afferent_arteriole
-path215,renal_afferent_arteriole
-path219,renal_afferent_arteriole
-path223,renal_afferent_arteriole
-path227,renal_afferent_arteriole
-path231,renal_afferent_arteriole
-path235,renal_afferent_arteriole
-path239,renal_afferent_arteriole
-path635,renal_efferent_arteriole
-path631,renal_efferent_arteriole
-path627,renal_efferent_arteriole
-path623,renal_efferent_arteriole
-path619,renal_efferent_arteriole
-path615,renal_efferent_arteriole
-path611,renal_efferent_arteriole
-path607,renal_efferent_arteriole
-path603,renal_efferent_arteriole
-path599,renal_efferent_arteriole
-path595,renal_efferent_arteriole
-path591,renal_efferent_arteriole
-path587,renal_efferent_arteriole
-path583,renal_efferent_arteriole
-path579,renal_efferent_arteriole
-parietal_epithelial_cells,parietal_epithelial_cell
-podocytes,glomerular_visceral_epithelial_cell
-path571,glomerular_capillary_endothelial_cell
-path573,glomerular_capillary_endothelial_cell
-path49,glomerular_mesangial_cell
-path51,glomerular_mesangial_cell
-path53,glomerular_mesangial_cell
-path55,glomerular_mesangial_cell
-path57,glomerular_mesangial_cell
-path61,glomerular_mesangial_cell
-path63,glomerular_mesangial_cell
-path65,glomerular_mesangial_cell
-path67,glomerular_mesangial_cell
-path69,glomerular_mesangial_cell
-path71,glomerular_mesangial_cell
-path73,glomerular_mesangial_cell
-path75,glomerular_mesangial_cell
-path103,glomerular_mesangial_cell
-juxtaglomerular_granular_cell,kidney_granular_cell
-macula_densa,macula_densa_epithelial_cell
+ASCT+B-FTU Crosswalk Table for Renal Corpuscle,,,,,,,,
+,,,,,,,,
+Author Name(s):,Fauzan Isnaini,,,,,,,
+Image Source:,Explorer. [Online]. Available: https://atlas.kpmp.org/explorer/. [Accessed: 04-Aug-2021].,,,,,,,
+Date:,7/15/2021,,,,,,,
+Version Number:,1,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+svg_id,label,OntologyID,representation_of,exist_asctb,type,REF,REF/DOI,REF/NOTES
+parietal_epithelial_cells,glomerular parietal epithelium,UBERON:0005750,http://purl.obolibrary.org/obo/UBERON_0005750,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+podocytes,glomerular visceral epithelium,UBERON:0006852,http://purl.obolibrary.org/obo/UBERON_0006852,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_capillary_endothelium_1,glomerular capillary endothelium,UBERON:0004294,http://purl.obolibrary.org/obo/UBERON_0004294,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_capillary_endothelium_2,glomerular capillary endothelium,UBERON:0004294,http://purl.obolibrary.org/obo/UBERON_0004294,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+mesangium,glomerular mesangium,UBERON:0002320,http://purl.obolibrary.org/obo/UBERON_0002320,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+distal_tubule,thick ascending limb of loop of Henle,UBERON:0001291,http://purl.obolibrary.org/obo/UBERON_0001291,1,AS,PMID: 31689386,DOI: 10.1016/j.devcel.2019.10.005,
+proximal_tubule,proximal tubule,UBERON:0004134,http://purl.obolibrary.org/obo/UBERON_0004134,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+basement_membranes,glomerular basement membrane,UBERON:0005777,http://purl.obolibrary.org/obo/UBERON_0005777,0,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+extraglomerular_mesangium_1,extraglomerular mesangium,UBERON:0002321,http://purl.obolibrary.org/obo/UBERON_0002321,0,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+extraglomerular_mesangium_2,extraglomerular mesangium,UBERON:0002321,http://purl.obolibrary.org/obo/UBERON_0002321,0,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+extraglomerular_mesangium_3,extraglomerular mesangium,UBERON:0002321,http://purl.obolibrary.org/obo/UBERON_0002321,0,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+macula_densa,macula densa,UBERON:0002335,http://purl.obolibrary.org/obo/UBERON_0002335,0,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+basement_membranes,basement membrane of epithelium,UBERON:0005769,http://purl.obolibrary.org/obo/UBERON_0005769,0,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+Bowman's_space,Bowman's space,UBERON:0001286,http://purl.obolibrary.org/obo/UBERON_0001286,0,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_afferent_arteriole_1,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_afferent_arteriole_2,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_afferent_arteriole_3,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_afferent_arteriole_4,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_afferent_arteriole_5,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_afferent_arteriole_6,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_afferent_arteriole_7,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_afferent_arteriole_8,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_afferent_arteriole_9,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_afferent_arteriole_10,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_afferent_arteriole_11,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_afferent_arteriole_12,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_afferent_arteriole_13,renal afferent arteriole,UBERON:0004639,http://purl.obolibrary.org/obo/UBERON_0004639,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_1,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_2,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_3,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_4,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_5,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_6,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_7,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_8,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_9,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_10,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_11,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_12,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_13,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_14,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+renal_efferent_arteriole_15,renal efferent arteriole,UBERON:0004640,http://purl.obolibrary.org/obo/UBERON_0004640,1,AS,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+parietal_epithelial_cells,parietal epithelial cell,CL:1000452,http://purl.obolibrary.org/obo/CL_1000452,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+podocytes,glomerular visceral epithelial cell,CL:0000653,http://purl.obolibrary.org/obo/CL_0000653,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_capillary_endothelium_1,glomerular capillary endothelial cell,CL:1001005,http://purl.obolibrary.org/obo/CL_1001005,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_capillary_endothelium_2,glomerular capillary endothelial cell,CL:1001005,http://purl.obolibrary.org/obo/CL_1001005,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_mesangial_cell_1,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_mesangial_cell_2,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_mesangial_cell_3,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_mesangial_cell_4,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_mesangial_cell_5,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_mesangial_cell_6,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_mesangial_cell_7,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_mesangial_cell_8,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_mesangial_cell_9,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_mesangial_cell_10,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_mesangial_cell_11,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_mesangial_cell_12,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_mesangial_cell_13,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+glomerular_mesangial_cell_14,glomerular mesangial cell,CL:1000742,http://purl.obolibrary.org/obo/CL_1000742,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+juxtaglomerular_granular_cell,kidney granular cell,CL:0000648,http://purl.obolibrary.org/obo/CL_0000648,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
+macula_densa,macula densa epithelial cell,CL:1000850,http://purl.obolibrary.org/obo/CL_1000850,1,CT,PMID: 31249312. PMCID: PMC6597610,DOI: 10.1038/s41467-019-10861-2,
