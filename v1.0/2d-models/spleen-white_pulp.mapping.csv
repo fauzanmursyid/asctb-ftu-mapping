@@ -1,0 +1,52 @@
+ASCT+B-FTU Crosswalk Table for White Pulp,,,,,,,,
+,,,,,,,,
+Author Name(s):,Fauzan Isnaini,,,,,,,
+Image Source:,"Nigam Y, Knight J (2020) The lymphatic system 3: its role in the immune system. Nursing Times [online]; 116: 12, 45-49.",,,,,,,
+Date:,8/10/2021,,,,,,,
+Version Number:,1,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+svg_id,label,OntologyID,representation_of,exist_asctb,type,REF,REF/DOI,REF/NOTES
+periarterial_lymphatic_sheath_1,periarterial lymphatic sheath,UBERON:0001960,http://purl.obolibrary.org/obo/UBERON_0001960,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+periarterial_lymphatic_sheath_2,periarterial lymphatic sheath,UBERON:0001960,http://purl.obolibrary.org/obo/UBERON_0001960,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+periarterial_lymphatic_sheath_3,periarterial lymphatic sheath,UBERON:0001960,http://purl.obolibrary.org/obo/UBERON_0001960,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+periarterial_lymphatic_sheath_4,periarterial lymphatic sheath,UBERON:0001960,http://purl.obolibrary.org/obo/UBERON_0001960,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+periarterial_lymphatic_sheath_5,periarterial lymphatic sheath,UBERON:0001960,http://purl.obolibrary.org/obo/UBERON_0001960,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+periarterial_lymphatic_sheath_6,periarterial lymphatic sheath,UBERON:0001960,http://purl.obolibrary.org/obo/UBERON_0001960,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+periarterial_lymphatic_sheath_7,periarterial lymphatic sheath,UBERON:0001960,http://purl.obolibrary.org/obo/UBERON_0001960,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+periarterial_lymphatic_sheath_8,periarterial lymphatic sheath,UBERON:0001960,http://purl.obolibrary.org/obo/UBERON_0001960,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+spleen_germinal_center_1,spleen germinal center,UBERON:0005196,http://purl.obolibrary.org/obo/UBERON_0005196,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+spleen_germinal_center_2,spleen germinal center,UBERON:0005196,http://purl.obolibrary.org/obo/UBERON_0005196,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+spleen_germinal_center_3,spleen germinal center,UBERON:0005196,http://purl.obolibrary.org/obo/UBERON_0005196,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+spleen_germinal_center_4,spleen germinal center,UBERON:0005196,http://purl.obolibrary.org/obo/UBERON_0005196,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+spleen_germinal_center_5,spleen germinal center,UBERON:0005196,http://purl.obolibrary.org/obo/UBERON_0005196,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+spleen_germinal_center_6,spleen germinal center,UBERON:0005196,http://purl.obolibrary.org/obo/UBERON_0005196,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+spleen_germinal_center_7,spleen germinal center,UBERON:0005196,http://purl.obolibrary.org/obo/UBERON_0005196,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+spleen_germinal_center_8,spleen germinal center,UBERON:0005196,http://purl.obolibrary.org/obo/UBERON_0005196,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+primary_follicle_1,primary_follicle,,,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+primary_follicle_2,primary_follicle,,,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+primary_follicle_3,primary_follicle,,,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+primary_follicle_4,primary_follicle,,,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+primary_follicle_5,primary_follicle,,,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+primary_follicle_6,primary_follicle,,,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+primary_follicle_7,primary_follicle,,,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+primary_follicle_8,primary_follicle,,,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+marginal_zone_of_spleen_1,Marginal Zone of Spleen,UBERON:0001251,http://purl.obolibrary.org/obo/UBERON_0001251,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+marginal_zone_of_spleen_2,Marginal Zone of Spleen,UBERON:0001251,http://purl.obolibrary.org/obo/UBERON_0001251,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+marginal_zone_of_spleen_3,Marginal Zone of Spleen,UBERON:0001251,http://purl.obolibrary.org/obo/UBERON_0001251,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+marginal_zone_of_spleen_4,Marginal Zone of Spleen,UBERON:0001251,http://purl.obolibrary.org/obo/UBERON_0001251,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+marginal_zone_of_spleen_5,Marginal Zone of Spleen,UBERON:0001251,http://purl.obolibrary.org/obo/UBERON_0001251,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+marginal_zone_of_spleen_6,Marginal Zone of Spleen,UBERON:0001251,http://purl.obolibrary.org/obo/UBERON_0001251,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+marginal_zone_of_spleen_7,Marginal Zone of Spleen,UBERON:0001251,http://purl.obolibrary.org/obo/UBERON_0001251,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+marginal_zone_of_spleen_8,Marginal Zone of Spleen,UBERON:0001251,http://purl.obolibrary.org/obo/UBERON_0001251,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+central_arteries_1,NOT FOUND,UBERON:0005353,http://purl.obolibrary.org/obo/UBERON_0005353,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+central_arteries_2,NOT FOUND,UBERON:0005353,http://purl.obolibrary.org/obo/UBERON_0005353,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+central_arteries_3,NOT FOUND,UBERON:0005353,http://purl.obolibrary.org/obo/UBERON_0005353,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+central_arteries_4,NOT FOUND,UBERON:0005353,http://purl.obolibrary.org/obo/UBERON_0005353,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+central_arteries_5,NOT FOUND,UBERON:0005353,http://purl.obolibrary.org/obo/UBERON_0005353,1,AS,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+central_arteries_1,Blood Endothelial Cells,,,1,CT,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+central_arteries_2,Blood Endothelial Cells,,,1,CT,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+central_arteries_3,Blood Endothelial Cells,,,1,CT,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+central_arteries_4,Blood Endothelial Cells,,,1,CT,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
+central_arteries_5,Blood Endothelial Cells,,,1,CT,"Steiniger, B.S. (2015), Human spleen microanatomy: why mice do not suffice. Immunology, 145: 334-346. ",DOI: 10.1111/imm.12469,"AS-CT, CT-B"
