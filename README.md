@@ -50,7 +50,7 @@ Important notes:
 
 Changes from the original SVG file:
 
-1. Replace the original colors with five colors to     distinguish between CTs.
+1. Replace the original colors with five colors to distinguish between CTs.
 2. Added text label for each CT and AS.
 3. Renamed these path and group ids to resemble the AS/CT name: LAYER_EFO, g14, g18, g10, g6, path71, CL_0002062, CL_0002063, g79, g83, path74
 
@@ -66,7 +66,7 @@ Important notes: The tuft cells and eosinophils are not depicted on the SVG imag
 
 Changes from the original SVG file:
 
-1. The original image is a raster, so we vectorized it     using Adobe Illustrator with 6 colors and automatically group the paths     based on their filled color.
+1. The original image is a raster, so we vectorized it using Adobe Illustrator with 6 colors and automatically group the paths     based on their filled color.
 2. Relabeled each CT.
 
 ## Kidney's Nephron Tubules
@@ -79,7 +79,24 @@ Edited SVG image: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapp
 
 Changes from the original SVG files:
 
-1. Removed spaces on these labels: metadata, nephron     title, distal convoluted tubule, proximal straight tubule (S3).
+1. Removed spaces on these labels: metadata, nephron title, distal convoluted tubule, proximal straight tubule (S3).
+
+
+
+## Spleen's White Pulp
+
+Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/v1.0/2d-models/spleen-white_pulp.mapping.csv
+
+Original SVG image from Nursing Times [^4] : https://github.com/fauzanmursyid/asctb-ftu-mapping/blob/main/original_image/spleen-white_pulp.jpg
+
+Edited SVG image: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/v1.0/2d-models/spleen-white_pulp.svg
+
+Important notes: The image is too big to show the CTs.
+
+Changes from the original SVG files:
+
+1. The original image is a raster, so we vectorized it using Adobe Illustrator.
+2. The paths that are representing the same AS are grouped together and are given ids that represent the AS/CT. 
 
 ## Reference
 
@@ -88,3 +105,4 @@ Changes from the original SVG files:
 [^2]: –&nbsp;https://www.ebi.ac.uk/about/people/irene-papatheodorou, E. B. I. G. E. T. (n.d.). Single&nbsp;Cell Expression&nbsp;Atlas. Experiment. https://www.ebi.ac.uk/gxa/sc/experiments/E-GEOD-130148/results/anatomogram. 
 
 [^3]: BioRender. (n.d.). https://biorender.com/. 
+[^4]: Nigam Y, Knight J (2020) The lymphatic system 3: its role in the immune system. Nursing Times [online]; 116: 12, 45-49.
