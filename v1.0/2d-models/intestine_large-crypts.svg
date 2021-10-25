@@ -20,23 +20,23 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="1.3902583"
-     inkscape:cx="213.26973"
+     inkscape:cx="213.26972"
      inkscape:cy="125.1566"
      inkscape:window-width="1366"
      inkscape:window-height="706"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1601" />
+     inkscape:current-layer="epithelium_of_crypt_of_lieberkuhn" />
   <defs
      id="defs4">
     <style
        id="style2">.cls-1{fill:#fefefe;}.cls-2{fill:#fad9c1;}.cls-3{fill:#9d75b3;}.cls-4{fill:#f7e3d8;}.cls-5{fill:#a17ab8;}.cls-6{fill:#e78c9f;}.cls-7{fill:#76a97b;}.cls-8{fill:#70a777;}.cls-9{fill:#f2cbb2;}.cls-10{fill:#bdd3b4;}.cls-11{fill:#88b48a;}.cls-12{fill:#508753;}.cls-13{fill:#e2a489;}.cls-14{fill:#e06b84;}.cls-15{fill:#7a5097;}</style>
   </defs>
   <g
-     id="g1601">
+     id="epithelium_of_crypt_of_lieberkuhn">
     <g
-       id="g2174"
+       id="epithelial_stem_cell_1"
        transform="matrix(0.69549726,0,0,0.69549726,1.481212,38.342175)">
       <path
          class="cls-6"
@@ -75,7 +75,7 @@
          id="path444" />
     </g>
     <g
-       id="g2887"
+       id="enteroendocrine_cell_1"
        transform="matrix(0.69549726,0,0,0.69549726,1.481212,38.342175)">
       <path
          class="cls-3"
@@ -149,7 +149,7 @@
          id="path650" />
     </g>
     <g
-       id="entero0101"
+       id="enteroendocrine_cell_2"
        transform="matrix(0.69549726,0,0,0.69549726,1.481212,38.342175)">
       <path
          class="cls-5"
@@ -223,7 +223,7 @@
          id="path656" />
     </g>
     <g
-       id="g2851"
+       id="absorptive_cell_1"
        transform="matrix(0.69549726,0,0,0.69549726,1.481212,38.342175)">
       <path
          class="cls-9"
@@ -417,7 +417,7 @@
          id="path688" />
     </g>
     <g
-       id="g2871"
+       id="goblet_cell_1"
        transform="matrix(0.69549726,0,0,0.69549726,1.481212,38.342175)">
       <path
          class="cls-7"
@@ -511,7 +511,7 @@
          id="path700" />
     </g>
     <g
-       id="g2775"
+       id="absorptive_cell_2"
        transform="matrix(0.69549726,0,0,0.69549726,1.481212,38.342175)">
       <path
          class="cls-4"
@@ -810,7 +810,7 @@
          id="path702" />
     </g>
     <g
-       id="g2802"
+       id="goblet_cell_2"
        transform="matrix(0.69549726,0,0,0.69549726,1.481212,38.342175)">
       <path
          class="cls-10"
@@ -939,7 +939,7 @@
          id="path720" />
     </g>
     <g
-       id="g2165"
+       id="epithelial_stem_cell_2"
        transform="matrix(0.69549726,0,0,0.69549726,1.481212,38.342175)">
       <path
          class="cls-14"
@@ -983,7 +983,7 @@
          id="path742" />
     </g>
     <g
-       id="g2696"
+       id="absorptive_cell_3"
        transform="matrix(0.69549726,0,0,0.69549726,1.481212,38.342175)">
       <path
          class="cls-13"
@@ -1327,7 +1327,7 @@
          id="path746" />
     </g>
     <g
-       id="g2075"
+       id="goblet_cell_3"
        transform="matrix(0.69549726,0,0,0.69549726,1.481212,38.342175)">
       <path
          class="cls-11"
@@ -1536,7 +1536,7 @@
          id="path752" />
     </g>
     <g
-       id="g2556"
+       id="absorptive_cell_4"
        transform="matrix(0.69549726,0,0,0.69549726,1.481212,38.342175)">
       <path
          class="cls-2"
@@ -1720,7 +1720,7 @@
          id="path758" />
     </g>
     <g
-       id="g1936"
+       id="enteroendocrine_cell_3"
        transform="matrix(0.69549726,0,0,0.69549726,1.481212,38.342175)">
       <path
          class="cls-15"
@@ -1774,7 +1774,7 @@
          id="path760" />
     </g>
     <g
-       id="g2714"
+       id="goblet_cell_4"
        transform="matrix(0.69549726,0,0,0.69549726,1.481212,38.342175)">
       <path
          class="cls-8"
@@ -1858,7 +1858,7 @@
          id="path768" />
     </g>
     <g
-       id="g2198"
+       id="goblet_cell_5"
        transform="matrix(0.69549726,0,0,0.69549726,1.481212,38.342175)">
       <path
          class="cls-12"
