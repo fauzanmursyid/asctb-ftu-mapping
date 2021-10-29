@@ -165,13 +165,7 @@ Original SVG image [^2] : https://github.com/fauzanmursyid/asctb-ftu-mapping/raw
 
 Edited SVG image: https://github.com/fauzanmursyid/asctb-ftu-mapping/raw/main/v1.0/2d-models/lung-bronchi.svg
 
-Important notes: the 2D schematics' resolution does not show CT shapes.
-
-Changes from the original SVG files:
-
-1. The original image is a raster, so we vectorized it using Adobe Illustrator.
-2. The paths that are representing the same AS are grouped together and are given ids that represent the AS/CT. 
-
+Change from the original SVG files: The paths that are representing the same AS are grouped together and are given ids that represent the AS/CT. 
 
 ## References
 
@@ -186,3 +180,5 @@ Changes from the original SVG files:
 [^5]: Batista, Facundo & Coleman, Julia & Frederico, Bruno & Gaya, Mauro. (2016). Antigen Acquisition In Vivo and its Role in B Cell Activation. Encyclopedia of Immunobiology. 10.1016/B978-0-12-374279-7.09002-0. 
 
 [^6]: Akay, E. & Okumus, Zafer & Yildirim, O. & Bokhari, Maria & Akay, Göksel. (2011). Synthetic organs for transplant and bio-mimic reactors for process intensification using nano-structured micro-porous materials. WIT Transactions on Biomedicine and Health. 15. 383-394. 10.2495/EHR110331. 
+
+[^7]: L. L. &amp; OpenStax, “Anatomy and physiology II,” Lumen. [Online]. Available: https://courses.lumenlearning.com/ap2/chapter/anatomy-of-the-lymphatic-and-immune-systems/. [Accessed: 29-Oct-2021]. 
