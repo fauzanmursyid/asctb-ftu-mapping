@@ -23,7 +23,7 @@ Each CSV file has nine columns:
 
 Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/v1.0/2d-models/kidney-renal_corpuscle.mapping.csv
 
-Original SVG image from KPMP [^1]: [https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/original_image/Schematics_Renal%20Corpuscle%20-%20human.svg](https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/original_image/Schematics_Renal Corpuscle - human.svg)
+Original SVG image from KPMP [^1]: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/original_image/kidney-renal_corpuscle.svg
 
 Edited SVG image: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/v1.0/2d-models/kidney-renal_corpuscle.svg
 
