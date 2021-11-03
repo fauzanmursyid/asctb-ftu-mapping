@@ -38,7 +38,7 @@ Changes from the original SVG file:
 
 Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/v1.0/2d-models/lung-alveoli.mapping.csv
 
-Original SVG image from EBI [^2]: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/original_image/alveoli.svg
+Original SVG image from EBI [^2]: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/original_image/lung-alveoli.svg
 
 Edited SVG image: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/v1.0/2d-models/lung-alveoli.svg
 
