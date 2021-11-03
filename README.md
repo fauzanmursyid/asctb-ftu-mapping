@@ -72,7 +72,7 @@ Changes from the original SVG file:
 
 Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/v1.0/2d-models/kidney-nephron_tubules.mapping.csv
 
-Original SVG image from KPMP [^1] : [https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/original_image/KPMP_Schematics_Nephron%20tubules%20-%20human.svg](https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/original_image/KPMP_Schematics_Nephron tubules - human.svg)
+Original SVG image from KPMP [^1] : https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/original_image/kidney-nephron_tubules.svg
 
 Edited SVG image: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/v1.0/2d-models/kidney-nephron_tubules.svg
 
