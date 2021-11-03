@@ -57,7 +57,7 @@ Changes from the original SVG file:
 
 Crosswalk table: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/v1.0/2d-models/intestine_large-crypts.mapping.csv
 
-Original image created with BioRender [^3] : https://github.com/fauzanmursyid/asctb-ftu-mapping/blob/main/original_image/crypt.PNG
+Original image created with BioRender [^3] : https://github.com/fauzanmursyid/asctb-ftu-mapping/blob/main/original_image/intestine_large-crypts.PNG
 
 Edited SVG image: https://raw.githubusercontent.com/fauzanmursyid/asctb-ftu-mapping/main/v1.0/2d-models/intestine_large-crypts.svg
 
